@@ -4,7 +4,7 @@ import { Box, Typography } from '@mui/material'
 import Videos from './Videos'
 import { useParams } from 'react-router-dom'
 import { fetchFromAPI } from '../utils/fetchFromAPI'
-import { Padding } from '@mui/icons-material'
+
 
 const SearchFeed = () => {
 
